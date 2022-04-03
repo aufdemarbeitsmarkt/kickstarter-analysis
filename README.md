@@ -20,7 +20,6 @@ The chart below shows the number of campaigns in the 'theater' category by outco
 ![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
 
 
-
 Reviewing this data, we see that May has the highest number of successful campaigns. While May also has the highest number of failed campaigns, note that the number of successful campaigns becomes increasingly closer to the number of failed campaigns in the final few months of the year (October through December).
 
 With this, we feel confident that late-spring is likely the best time to begin a campaign. It is recommended to avoid starting campaigns in the fall and winter months, particularly October through December.
@@ -33,7 +32,8 @@ The chart below shows the percentage of successful, failed, and canceled campaig
 
 ##### _note:_ 'Percentage Canceled' was 0% for all goal ranges, thus no results show on this chart.  
 
-resources/Outcomes_vs_Goals.png
+![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
+
 
 The highest percentages of successful campaigns fall within the 'Less than 1000' and '1000 to 4999' ranges -- 76% and 73% of campaigns in these ranges were successful, respectively.
 
