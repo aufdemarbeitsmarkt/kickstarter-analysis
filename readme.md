@@ -29,7 +29,7 @@ Note that this data does not take into consideration the length of time a campai
 
 The chart below shows the percentage of successful, failed, and canceled campaigns in the 'plays' subcategory, broken up into goal ranges.
 
-##### _note:_ `Percentage Canceled` was 0% for all goal ranges, thus no results show on this chart.  
+##### _note:_ 'Percentage Canceled' was 0% for all goal ranges, thus no results show on this chart.  
 
 /resources/Outcomes_vs_Goals.png
 
