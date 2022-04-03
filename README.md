@@ -17,7 +17,9 @@ With the campaign for _Fever_ in progress, we would like to perform an analysis 
 
 The chart below shows the number of campaigns in the 'theater' category by outcome based on launch date.
 
-resources/Theater_Outcomes_vs_Launch.png
+![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
+
+
 
 Reviewing this data, we see that May has the highest number of successful campaigns. While May also has the highest number of failed campaigns, note that the number of successful campaigns becomes increasingly closer to the number of failed campaigns in the final few months of the year (October through December).
 
