@@ -31,7 +31,7 @@ The chart below shows the percentage of successful, failed, and canceled campaig
 
 ##### _note:_ 'Percentage Canceled' was 0% for all goal ranges, thus no results show on this chart.  
 
-/resources/Outcomes_vs_Goals.png
+resources/Outcomes_vs_Goals.png
 
 The highest percentages of successful campaigns fall within the 'Less than 1000' and '1000 to 4999' ranges -- 76% and 73% of campaigns in these ranges were successful, respectively.
 
