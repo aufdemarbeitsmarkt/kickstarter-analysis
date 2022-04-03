@@ -6,6 +6,7 @@ At the outset of this project, we performed exploratory analysis of a sample of 
 
 Equipped with this analysis, our client launched her own campaign for the play, _Fever_, which at this time, has come close to meeting its fundraising goal.
 
+
 ### Purpose
 
 With the campaign for _Fever_ in progress, we would like to perform an analysis and visualize campaign outcomes based on their launch dates and funding goals.
@@ -24,13 +25,14 @@ Reviewing this data, we see that May has the highest number of successful campai
 
 With this, we feel confident that late-spring is likely the best time to begin a campaign. It is recommended to avoid starting campaigns in the fall and winter months, particularly October through December.
 
-Note that this data does not take into consideration the length of time a campaign is live. Some additional research may be warranted to better understand the interaction of creation date and the length of a campaign. For notes on this, see #4 in the [Results](#results) section below.
+_Note:_ this data does not take into consideration the length of time a campaign is live. Some additional research may be warranted to better understand the interaction of creation date and the length of a campaign. For notes on this, see #4 in the [Results](#results) section below.
+
 
 ### Analysis of Outcomes Based on Goals
 
 The chart below shows the percentage of successful, failed, and canceled campaigns in the 'plays' subcategory, broken up into goal ranges.
 
-##### _note:_ 'Percentage Canceled' was 0% for all goal ranges, thus no results show on this chart.  
+_Note:_ 'Percentage Canceled' was 0% for all goal ranges, thus no results show on this chart.  
 
 ![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
 
@@ -39,11 +41,11 @@ The highest percentages of successful campaigns fall within the 'Less than 1000'
 
 There is a spike in 'Percentage Successful' in the '35000 to 39999' and '40000 to 44999' ranges, however, the actual number of campaigns is quite low.
 
-'Percentage Failed' values are at their highest in the '25000 to 29999', '30000 to 34999', '45000 to 49999' ranges.
+'Percentage Failed' values are at their highest in the '25000 to 29999', '30000 to 34999', and '45000 to 49999' ranges.
 
 With this, we can comfortably recommend that campaigns with fundraising goals of less than 5000 are likely to succeed. When creating a campaign with a goal higher than this recommendation, additional care and research are warranted.
 
-Note that this data does not take into consideration currency conversion, e.g. a campaign with a goal of NOK 40000 will fall into the same bucket as a USD $40000 campaign; in reality, NOK 40000 is roughly equivalent to USD $4600.
+_Note:_ this data does not take into consideration currency conversion, e.g. a campaign with a goal of NOK 40000 will fall into the same bucket as a USD $40000 campaign; in reality, NOK 40000 is roughly equivalent to USD $4600.
 
 
 ### Challenges and Difficulties Encountered
